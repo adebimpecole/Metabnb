@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/adebimpecole/personal-profile-phase-2.git)
+- Solution URL: [Add solution URL here](https://github.com/adebimpecole/Metabnb.git)
 - Live Site URL: [Add live site URL here](https://jovial-mandazi-0236e1.netlify.app/)
 
 ## My process
