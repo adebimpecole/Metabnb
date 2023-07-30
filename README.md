@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/adebimpecole/Metabnb.git)
-- Live Site URL: [Add live site URL here](https://jovial-mandazi-0236e1.netlify.app/)
+- Solution URL: [solution URL here](https://github.com/adebimpecole/Metabnb.git)
+- Live Site URL: [live site URL here](https://jovial-mandazi-0236e1.netlify.app/)
 
 ## My process
 
@@ -44,7 +44,7 @@ Users should be able to:
 
 ### What I learned
 
-I learnt how to properly mke use of figma in design implementation
+I learnt how to properly make use of figma in design implementation
 
 ### Continued development
 
